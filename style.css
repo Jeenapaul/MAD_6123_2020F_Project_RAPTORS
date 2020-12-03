@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+  }
+h1{
+  color: brown;
+}
+  
+
+body {
+  background: url(pics.jpg);
+}
+
+table {
+  width: 700px;
+  
+  }
+  th {
+  text-align: left;
+  }
+  table,th,td{
+  border: 1px solid #000;
+  border-collapse: collapse;
+  }
